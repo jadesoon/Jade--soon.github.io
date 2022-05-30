@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://jadesoon.github.io #? 깃헙 계정에 푸시할때 열면 됩니다.
+url: "https://jadesoon.github.io" #? 깃헙 계정에 푸시할때 열면 됩니다.
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
